@@ -1,4 +1,4 @@
-## Helmholtz AI voucher template
+## Helmholtz AI Local Unit Energy Voucher Template
 
 The Helmholtz AI voucher system provides various scientific support in applied Artificial Intelligence (AI) research questions with respect to tools and methods in AI, ML and data science. All researchers of the Helmholtz Association can apply to enable short term collaborations and exciting projects. 
 
